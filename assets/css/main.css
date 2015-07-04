@@ -1,0 +1,10 @@
+div.view_container
+{
+    width: 350px;
+    height: 300px;
+}
+
+canvas.draw_rectancle
+{
+    border: 1px solid #000;
+}
